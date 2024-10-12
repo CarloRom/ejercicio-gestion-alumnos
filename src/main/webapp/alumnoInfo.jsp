@@ -134,7 +134,7 @@
 
 
     <s:else>
-        <p>No hay alumnos registrados.</p>
+        <h3>No hay alumnos registrados.</h3>
     </s:else>
 
     <br/>
