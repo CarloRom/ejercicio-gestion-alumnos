@@ -138,7 +138,7 @@
     </s:else>
 
     <br/>
-    <a href="index.jsp">Volver a la página principal</a>
+    <h3><a href="index.jsp">Volver a la página principal</a></h3>
 </div>
 
 </body>
